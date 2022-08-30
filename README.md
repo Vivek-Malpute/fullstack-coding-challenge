@@ -47,7 +47,7 @@ Front End
 - Tests: Jest + react-testing-library
 - Code Linter
 - Use of functional components
-- Typescript is a must
+- **Typescript is a must**
 - CSSinJS is a plus: styled-components, styled-system, ...
 
 Back End
