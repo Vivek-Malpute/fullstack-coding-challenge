@@ -23,7 +23,7 @@ Accident cases are increasing more nowadays. So this app needs to display the li
 
 ## Your Mission
 
-Create a React application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include.
+Create a React application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include. Please keep your creative juices flowing for designs.
 
 For that, you’ll need to make requests to your nodeJS API to get JSON content and print it on view.
 
