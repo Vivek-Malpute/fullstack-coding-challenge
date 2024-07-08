@@ -33,7 +33,7 @@ You can use any boilerplate/approach you prefer (nextjs, create react app, ...),
 
 You can assume that you do not have to support legacy browsers. Feel free to use modern features such as fetch or flexbox.
 
-Once you are done with the above requirements, please share your source code via github for review. We don't expect you to deploy your application but it in case you do you will receive extra brownie points.
+Once you are done with the above requirements, please share your source code via github for review with a proper README. Perhaps also mention if there is some seed data involved to get started. We don't expect you to deploy your application but it in case you do you will receive extra brownie points.
 
 ## Tech Requirements
 Front End 
