@@ -1,51 +1,46 @@
-# Find Nearby Ambulances and Doctors - JOIN Coding Challenge - Frontend (React) Backend (Node JS)
-<img src="illustration.jpeg" width="100%" alt="Find Near By Ambulances or Doctors">
+# Getting Started with Create React App
 
-## Context
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Accident cases are increasing more nowadays. So this app needs to display the list of all nearby ambulance services and doctors based on location with one click.
+## Available Scripts
 
+In the project directory, you can run:
 
-## Product Requirements
+### `npm start`
 
-- [ ] I want to add, edit, update and delete the ambulances and doctors .
-- [ ] I want to see a list of ambulances and doctors.
-- [ ] I want to see the first 10 records by default, with the ability to paginate (10 records per page).
-- [ ] I want to see a total ambulances and doctors in the app.
-- [ ] For each record I want to see:
-  - [ ] Title
-  - [ ] Description
-  - [ ] Location
-  - [ ] Image of the ambulance or doctor, if available
-- [ ] I want to see a loading state until the list is available.
-- [ ] I want to see an error state if the list is unavailable.
-- [ ] I want to see an empty state if there are no results.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Your Mission
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Create a React application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include. Please keep your creative juices flowing for designs.
+### `npm test`
 
-For that, you’ll need to make requests to your nodeJS API to get JSON content and print it on view.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-You can use a in-memory JSON file for your CRUD operations or use SQLite to make the CRUD operations simple to match the use case.
+### `npm run build`
 
-You can use any boilerplate/approach you prefer (nextjs, create react app, ...), but try to keep it simple. We encourage you to use your favorite tools and packages to build a solid React application.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-You can assume that you do not have to support legacy browsers. Feel free to use modern features such as fetch or flexbox.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Once you are done with the above requirements, please share your source code via github for review with a proper README. Perhaps also mention if there is some seed data involved to get started. We don't expect you to deploy your application but it in case you do you will receive extra brownie points.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Tech Requirements
-Front End 
-- React
-- Tests: Jest + React Testing Library
-- Code Linter
-- Use of functional components
-- **Typescript is a must**
-- CSSinJS is a plus: styled-components, styled-system, ...
+### `npm run eject`
 
-Back End
-- Node Js
-- Code Linter
-- Tests: Jest
-- Typescript is a plus
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
